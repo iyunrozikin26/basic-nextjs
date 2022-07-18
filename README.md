@@ -1,1 +1,1 @@
-# basic-nextjs
+# basic to learn Next Js
